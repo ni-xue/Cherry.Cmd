@@ -6,7 +6,7 @@
 		"zh_cn": "一个服务端共享路标点管理器"
 	},
 	"labels": [
-		
+		"tool"
 	],
 	"link": "https://github.com/TISUnion/LocationMarker",
 	"dependencies": {
