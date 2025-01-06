@@ -3,7 +3,7 @@
 	"name": "Location Marker",
 	"description": {
 		"en_us": "A server side waypoint manager",
-		"zh_cn": "一个服务端共享路标点管理器"
+		"zh_cn": "一个服务端共享路标点管理器111"
 	},
 	"labels": [
 		"tool"
